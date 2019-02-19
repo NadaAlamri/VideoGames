@@ -1,10 +1,15 @@
 Name:
+
 Video Games
 
 OverView: 
+
 The app displays the Top 50 video games for ps4 according to the popularity of the game provided by igdb.
+
 When user select a game it shows a summary of gameplay, rating and genre
+
 ScreenShots:
+
 ![Alt text](VideoGames/img/home.png)
 home screen where the list of games displayed
 ![Alt text](VideoGames/img/details.png)
